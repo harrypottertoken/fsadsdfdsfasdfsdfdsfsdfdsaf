@@ -1,0 +1,11 @@
+{
+  "index": {
+    "title": "Polaris Ethereum",
+    "type": "page",
+    "display": "hidden"
+  },
+  "docs": {
+    "title": "Documentation",
+    "type": "page"
+  }
+}
